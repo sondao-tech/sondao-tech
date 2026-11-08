@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+
+### 🥋 Codewars Stats
+
+[![Codewars Badge](https://www.codewars.com/users/castiel.sondao/badges/large)](https://www.codewars.com/users/castiel.sondao)
